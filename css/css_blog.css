@@ -1,0 +1,63 @@
+li {
+    list-style: circle;
+    list-style-position: inside;
+}
+a {
+    text-decoration: none;
+    color: #7A0BC0;   
+}
+img {
+    width: 100%;
+    margin-top: 50px;
+}
+.center {
+    border-bottom: 1px dashed #06283D;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+
+}
+
+.txtfrm_ana {
+    text-align: center;
+    font-size: 2em ;
+    font-family: cursive;
+
+}
+
+.txtfrm_gezy {
+    text-align: center;
+    font-size: 1.5em ;
+    font-family: 'Rubik Moonrocks', cursive;
+    
+}
+
+.titlefrm_ana {
+    text-align: center;
+    font-size: 4em;
+    font-family:'Splash', cursive ;
+}
+
+.titlefrm_gezy {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Rubik Moonrocks', cursive;
+
+}
+
+.bg_cl {
+    background-color: #90E0EF;
+}
+
+.bg_cl_gezy {
+    background-color: #DFF6FF ;
+}
+
+.bg_cl_f {
+    background-color: #FF8B8B;
+}
+
+.bg_cl_m {
+    background-color: #E4DCCF;
+}
